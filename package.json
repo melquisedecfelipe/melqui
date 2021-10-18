@@ -13,7 +13,7 @@
     "dev": "node ./src"
   },
   "bin": {
-    "melqui": "./src"
+    "melqui": "./src/index.js"
   },
   "type": "module"
 }
